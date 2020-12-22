@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ShowXmlQuestions.xsl"?>
+<assessmentItems>
+	<assessmentItem subject="Desarrollo sostenible" author="druskov001@ikasle.ehu.es">
+		<itemBody>
+			<p>¿Qué sector ha tenido un mayor porcentaje de robotización y, por ende, la mayor pérdida de empleo?</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				Alojamiento y comida
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> Informatica </response>
+			<response> Construccion </response>
+			<response> Gestion </response>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem subject="Cambio climatico" author="kandreev001@ikasle.ehu.es">
+		<itemBody>
+			<p>¿Qué se puede hacer de cara al transporte público para combatir el cambio climático?</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				Modernizarlo
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> No utilizarlo </response>
+			<response> No gastar dinero en cambiarlo </response>
+			<response> Utilizar solamente los comunitatios </response>
+		</incorrectResponses>
+	</assessmentItem>
+</assessmentItems>
